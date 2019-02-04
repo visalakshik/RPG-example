@@ -1,0 +1,2 @@
+# venv unnecessary to push venv to git
+__pycache__/
